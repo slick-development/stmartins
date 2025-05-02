@@ -259,7 +259,7 @@ const SGITPage = ({ data }) => (
       <div>
         <div className="mobile">
           <GatsbyImage
-            image={data.mobileImage.childImageSharp.gatsbyImageData}
+            image={data?.mobileImage?.childImageSharp?.gatsbyImageData}
             alt=""
             title=""
             className="img-fluid"
@@ -267,7 +267,7 @@ const SGITPage = ({ data }) => (
         </div>
         <div className="desktop">
           <GatsbyImage
-            image={data.desktopImage.childImageSharp.gatsbyImageData}
+            image={data?.desktopImage?.childImageSharp?.gatsbyImageData}
             alt=""
             title=""
             className="img-fluid"
@@ -389,13 +389,13 @@ const SGITPage = ({ data }) => (
           <div className="logo">
             <div>
               <GetImage
-                data={data.logo.childImageSharp.gatsbyImageData}
+                data={data?.logo?.childImageSharp?.gatsbyImageData}
                 alt=""
               />
             </div>
             <div>
               <GetImage
-                data={data.logo2.childImageSharp.gatsbyImageData}
+                data={data?.logo2?.childImageSharp?.gatsbyImageData}
                 alt=""
               />
             </div>
