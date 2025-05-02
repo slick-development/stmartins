@@ -1,0 +1,80 @@
+[
+    {
+        "key": "our-theatre",
+        "meta": {
+            "title": "Our Theatre",
+            "description": "TBC",
+            "slug": "/our-theatre/"
+        },
+        "header": {
+            "title": "Our Theatre",
+            "desktopBackgroundImage": "../images/headers/sgit-1920x1080px.jpg",
+            "mobileBackgroundImage": "../images/whatsOn/TSGIT-St-Martins-mobile.jpg",
+            "review": "‘****A joy’",
+            "reviewer": "Evening Standard",
+            "dates": " 29th November 2024 - 5th January 2025.",
+            "btnText": "Book Tickets",
+            "links": "/the-smartest-giant-in-town/tickets/"
+        },
+        "body": {
+            "title": "A Fierylight and Little Angel Theatre co-production",
+            "sectionLeft": [
+                "<p>Based on the bestselling book by Julia Donaldson and Axel Scheffler</p>",
+                "<p>George wishes he wasn&rsquo;t the scruffiest giant in town. So when he sees a new shop selling giant-sized clothes, he decides it&rsquo;s time for a new look: smart trousers, smart shirt, stripy tie, shiny shoes. Now he&rsquo;s the smartest giant in town . . . until he bumps into some animals who desperately need his help &ndash; and his clothes!</p>",
+                "<p>This heart-warming tale about friendship and helping those in need is brought to life in a musical, puppet-filled adventure, following on from Little Angel Theatre&rsquo;s bestselling adaptations of Julia Donaldson&rsquo;s picture books including The Singing Mermaid and The Everywhere Bear.</p>"
+            ],
+            "sectionRight": [
+                "<p><strong>Author:</strong> Julia Donaldson</p>",
+                "<p><strong>Cast:</strong> James Keningale, Ashton Owen, Heidi Goldsmith</p>",
+                "<p><strong>Tickets:</strong> From £10</p>",
+                "<p><strong>Access Rate:</strong> 50% of Face Value</p>",
+                "<p><strong>Running Time:</strong> 55 Minutes (no interval)</p>",
+                "<p><strong>Box Office:</strong> 020 7836 1443</p>"
+            ],
+            "lowerSection": [
+                "<p><strong>Babies in Arms</strong> <br />Babies in arms are allowed for this production, babies under 12 months sitting on an adults lap do not need a ticket. All other patrons do need a ticket for entry.</p>",
+                "<p><strong>Prams &amp; Buggies</strong> <br />These can be left from 40 minutes before the show in our cloakroom &ndash; they must be able to collapse and should be before handing to our team. Space is limited.</p>"
+            ],
+            "logo": "../images/whatsOn/Fierylight_Logo.jpg"
+        }
+    },
+    {
+        "key": "the-smartest-giant-in-town",
+        "meta": {
+            "title": "The Smartest Giant In Town",
+            "description": "TBC",
+            "slug": "/the-smartest-giant-in-town/"
+        },
+        "header": {
+            "title": "The Smartest Giant In Town",
+            "desktopBackgroundImage": "../images/SGIT-St-Martin's-1920x857.jpg",
+            "mobileBackgroundImage": "../images/SGIT-St-Martin's-575x869.jpg",
+            "review": "‘****A joy’",
+            "reviewer": "Evening Standard",
+            "dates": "29th November 2024 - 5th January 2025.",
+            "btnText": "Book Tickets",
+            "links": "/the-smartest-giant-in-town/tickets/"
+        },
+        "body": {
+            "title": "A Fierylight and Little Angel Theatre co-production",
+            "sectionLeft": [
+                "<p>Based on the bestselling book by Julia Donaldson and Axel Scheffler</p>",
+                "<p>George wishes he wasn&rsquo;t the scruffiest giant in town. So when he sees a new shop selling giant-sized clothes, he decides it&rsquo;s time for a new look: smart trousers, smart shirt, stripy tie, shiny shoes. Now he&rsquo;s the smartest giant in town . . . until he bumps into some animals who desperately need his help &ndash; and his clothes!</p>",
+                "<p>This heart-warming tale about friendship and helping those in need is brought to life in a musical, puppet-filled adventure, following on from Little Angel Theatre&rsquo;s bestselling adaptations of Julia Donaldson&rsquo;s picture books including The Singing Mermaid and The Everywhere Bear.</p>"
+            ],
+            "sectionRight": [
+                "<p><strong>Author:</strong> Julia Donaldson</p>",
+                "<p><strong>Cast:</strong> James Keningale, Ashton Owen, Heidi Goldsmith</p>",
+                "<p><strong>Tickets:</strong> From £10</p>",
+                "<p><strong>Access Rate:</strong> 50% of Face Value</p>",
+                "<p><strong>Running Time:</strong> 55 Minutes (no interval)</p>",
+                "<p><strong>Box Office:</strong> 020 7836 1443</p>"
+            ],
+            "lowerSection": [
+                "<p><strong>Babies in Arms</strong> <br />Babies in arms are allowed for this production, babies under 12 months sitting on an adults lap do not need a ticket. All other patrons do need a ticket for entry.</p>",
+                "<p><strong>Prams &amp; Buggies</strong> <br />These can be left from 40 minutes before the show in our cloakroom &ndash; they must be able to collapse and should be before handing to our team. Space is limited.</p>"
+            ],
+            "logo": "../images/whatsOn/Fierylight_Logo.jpg"
+        }
+    }
+]

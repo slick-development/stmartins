@@ -1,0 +1,719 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * proxima-nova:
+ *   - http://typekit.com/eulas/00000000000000003b9b093b
+ *   - http://typekit.com/eulas/00000000000000003b9b093a
+ *   - http://typekit.com/eulas/00000000000000003b9b0934
+ *   - http://typekit.com/eulas/00000000000000003b9b0935
+ * proxima-nova-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9b094f
+ *   - http://typekit.com/eulas/00000000000000003b9b094b
+ *   - http://typekit.com/eulas/00000000000000003b9b0944
+ *
+ * Â© 2009-2018 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-09-12 12:51:52 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=eeu8pht&ht=tk&f=139.140.175.176.141.143.147&a=5822867&app=typekit&e=css");
+
+@font-face {
+font-family:"proxima-nova";
+src:url("https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("https://use.typekit.net/af/86b539/00000000000000003b9b093a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/86b539/00000000000000003b9b093a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/86b539/00000000000000003b9b093a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("https://use.typekit.net/af/6aec08/00000000000000003b9b0935/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/6aec08/00000000000000003b9b0935/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/6aec08/00000000000000003b9b0935/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"proxima-nova-condensed";
+src:url("https://use.typekit.net/af/908820/00000000000000003b9b094f/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/908820/00000000000000003b9b094f/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/908820/00000000000000003b9b094f/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+font-style:normal;font-weight:900;
+}
+
+@font-face {
+font-family:"proxima-nova-condensed";
+src:url("https://use.typekit.net/af/290aa2/00000000000000003b9b094b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/290aa2/00000000000000003b9b094b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/290aa2/00000000000000003b9b094b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"proxima-nova-condensed";
+src:url("https://use.typekit.net/af/970510/00000000000000003b9b0944/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/970510/00000000000000003b9b0944/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/970510/00000000000000003b9b0944/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-style:normal;font-weight:400;
+}
+
+.tk-proxima-nova { font-family: "proxima-nova",sans-serif; }
+.tk-proxima-nova-condensed { font-family: "proxima-nova-condensed",sans-serif; } 
+
+
+/* Main Tags ------------------------------------------------------------------*/
+* {
+  outline: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased; }
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  border: 0 none;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body, html {
+  color: #ffffff;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 50px 0 0 0 ; }
+
+body {
+  background: transparent;
+  padding: 0;
+  font-size: 18px;
+  font-family: 'proxima-nova-condensed',sans-serif; }
+
+a {
+  color: #ffffff; }
+
+a:link, a:active, a:visited {
+  color: #fafafa;
+  outline: medium none;
+  text-decoration: underline; }
+
+a:hover {
+  color: #a8954d;
+  outline: medium none; }
+
+hr {
+  color: #a8954d;
+  height: 1px;
+  width: 100%;
+  margin: 20px 0; }
+
+a,
+input,
+button,
+.Button {
+  -webkit-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out; }
+
+p {
+  font-family: 'proxima-nova-condensed', sans-serif;
+  margin: 0 0 10px; }
+
+.container ul li {
+  font-family: 'proxima-nova-condensed', sans-serif;
+  font-size: 1em;
+  line-height: 1.3;
+  letter-spacing: 0;
+  word-spacing: .1em; }
+
+h1, h2, h3, h4, h5, h6, dt {
+  font-family: 'proxima-nova-condensed', sans-serif;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: #ffffff; }
+
+h1 {
+  font-size: 32px; }
+
+dt {
+  font-size: 16px; }
+
+select {
+  padding: 5px; }
+
+.SpektrixFooterNormal {
+  background: #000000;
+  padding: 10px 8px 6px;
+  display: none !important; }
+
+.DetailsEditor {
+  margin: 0 0 20px; }
+
+.SpektrixPage {
+  background: transparent;
+  min-height: 400px; }
+
+.SpektrixPage.TicketBreakdown {
+  min-height: auto; }
+
+.ErrorMessage span {
+  display: inline-block;
+  color: #F50F13;
+  margin: 0 0 20px;
+  padding: 0; }
+
+.ImageIcon {
+  margin-right: 10px !important;
+  background-image: none !important;
+  border-radius: 50%; }
+
+.Container {
+  margin: 0 0 10px; }
+
+.Container .Input_Text {
+  width: 98%;
+  width: 100%;
+  max-width: 100%; }
+
+.CalendarGrid {
+  font-size: 16px; }
+
+/* Buttons
+/* ------------------------------------------------------------------*/
+.Buttons {
+  margin: 15px 0 10px !important; }
+
+.SeatingSelector + .Buttons {
+  text-align: right; }
+
+h1.EditTicketsHeading {
+  margin-bottom: 0; }
+  h1.EditTicketsHeading .EventName {
+    line-height: 1em;
+    color: #ffffff;
+    display: block;
+    font-family: 'proxima-nova-condensed', sans-serif;
+    font-size: 30px;
+    font-size: 3rem;
+    margin-bottom: 16px; }
+    @media only screen and (min-width: 767px) {
+      h1.EditTicketsHeading .EventName {
+        font-size: 3rem; } }
+  h1.EditTicketsHeading .Separator {
+    display: none; }
+
+.DropDownSection .Button {
+  background: none !important; }
+
+.DropDownCalendar .DropDownSection .CalendarViewport table td.DateCell.SeatsAvailableOnline {
+  color: #000000; }
+
+.DropDownSection {
+  right: -32px !important; }
+
+.Buttons input {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  text-transform: uppercase;
+  font-size: 18px;
+  border: none;
+  font-family: "proxima-nova-condensed", sans-serif;
+  border: none;
+  color: #ffffff;
+  border-radius: 0;
+  text-align: center;
+  height: 100%;
+  cursor: pointer;
+  background: #3866c0;
+  padding: 0.75em; }
+
+
+#ctl00_ContentPlaceHolder_CheckoutLink {
+  background-color: red !important;
+  color: #ffffff !important; }
+
+.Buttons a {
+  text-transform: uppercase;
+  font-size: 18px;
+  border: none;
+  font-family: "proxima-nova-condensed", sans-serif;
+  border: none;
+  color: #ffffff;
+  border-radius: 0;
+  text-align: center;
+  min-width: 200px;
+  height: 100%;
+  cursor: pointer;
+  background: #3866c0;
+  padding: 0.75em;
+  text-decoration: none;
+  display: inline-block; }
+  @media only screen and (max-width: 640px) {
+    .Buttons a {
+      display: block;
+      margin-bottom: 15px; } }
+
+.EditButton {
+  margin: 12px 0; }
+
+  .ItemDeleteButton {
+    text-transform: uppercase;
+    font-size: 18px;
+    border: none;
+    font-family: "proxima-nova-condensed", sans-serif;
+    border: none;
+    color: #ffffff !important;
+    border-radius: 0;
+    text-align: center;
+    height: 100%;
+    cursor: pointer;
+    background: #000 !important;
+    padding: 0.65em 1.2em;
+    border: 2px solid #000000;
+    padding: 0.75em !important;
+    }
+  
+  
+.SeatingAreaOptionalInstructions,
+.OptionalMessage,
+#ctl00_ContentPlaceHolder_OptionalMessageViewer {
+  padding: 15px 0px;
+  border-bottom: 1px solid #222126;
+  color: #000;
+  margin: 0 0 20px; }
+
+.Account_Link {
+  margin: 10px 0 0; }
+
+.Container.Address > a,
+.NewAddress {
+  display: inline-block;
+  float: left;
+  margin: 10px 15px 10px 0; }
+
+.DonationAmount {
+  margin: 0 0 15px; }
+
+.FundHeading {
+  margin: 0; }
+
+.InstanceCalendar {
+  color: #000; }
+
+.PriceListTable td {
+  padding-right: 10px;
+  min-width: 110px; }
+
+.PriceListTable {
+  margin: 0 0 20px;
+  text-align: left;
+  width: 100%; }
+
+.PricesHeading {
+  border-top: 1px solid #fff;
+  font-size: 1.3em;
+  margin: 20px 0 10px;
+  padding: 20px 0 0;
+  text-align: left; }
+
+.PromoCode .left {
+  width: 100%; }
+
+.PromoCode .Button {
+  text-transform: uppercase;
+  font-size: 18px;
+  border: none;
+  font-family: "proxima-nova-condensed", sans-serif;
+  border: 2px solid #000000;
+  color: #000000;
+  border-radius: 0;
+  text-align: center;
+  min-width: 200px;
+  height: 100%;
+  cursor: pointer;
+  background: transparent;
+  padding: 0.65em 1.2em;
+  -webkit-transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+  -o-transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+  transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+  position: relative;
+  top: 1px; }
+  .PromoCode .Button:hover, .PromoCode .Button:focus {
+    background-color: #000000;
+    color: #000000; }
+
+.DeliveryCommissionSection {
+  margin: 20px 0 0; }
+
+.DeliveryCommissionSection ul {
+  line-height: 1.4;
+  list-style: outside none none;
+  margin: 10px 0 30px;
+  padding: 0 20px; }
+
+.AddressList {
+  border-bottom: 1px solid #fff;
+  list-style: outside none none;
+  margin: 0 0 20px;
+  padding: 0 0 15px;
+  position: relative; }
+
+.AddressList li {
+  padding: 0 0 0 20px; }
+
+.AddressList li input[type="radio"] {
+  left: -6px;
+  position: absolute;
+  top: -2px; }
+
+.Progress ol {
+  border-bottom: 1px solid #fff;
+  border-top: 1px solid #fff;
+  line-height: 1.6;
+  margin: 0 0 20px;
+  padding: 10px 20px; }
+
+.TermsAndConditions {
+  position: relative;
+  font-size: .9em;
+  margin: 0 0 30px; }
+
+.TermsAndConditionsWikiText {
+  display: inline-block;
+  line-height: 1;
+  padding: 0 0 0 25px;
+  position: relative; }
+
+.TermsAndConditions input[type="checkbox"] {
+  left: -3px;
+  position: absolute;
+  bottom: 0; }
+
+.ValidationError {
+  display: inline-block;
+  margin: 15px 0 0; }
+
+.Summary table td {
+  padding-right: 10px; }
+
+/* Forms
+/* ------------------------------------------------------------------*/
+form {
+  padding: 0; }
+
+form#foxform {
+  border: 0 none; }
+
+#foxform .Container {
+  margin-bottom: 0; }
+
+#foxform .Buttons {
+  margin: 0 !important; }
+
+#foxform .Input_Text {
+  margin: 0 !important; }
+
+.left {
+  display: inline-block;
+  width: 180px; }
+
+.Input_Text {
+  margin: 0 0 10px;
+  padding: 9px 12px;
+  width: 60%; }
+
+.Details {
+  text-align: left; }
+  .Details table {
+    min-width: 60%; }
+
+.Options ul {
+  display: inline-block;
+  list-style: outside none none;
+  padding: 0;
+  width: 100%;
+  margin: 0 0 20px; }
+
+.Options ul li {
+  display: inline-block;
+  margin: 0 10px 0 0;
+  padding: 0; }
+
+.Options ul li a {
+  background: #feefe3;
+  padding: 5px 10px; }
+
+.Options ul li a.Selected {
+  background: #121f57; }
+
+.Savings ul {
+  list-style: outside none none;
+  padding: 0; }
+
+.Header ul,
+.Breakdown {
+  list-style: outside none none; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate {
+  position: relative; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate .Savings {
+  bottom: 0;
+  font-size: 12px;
+  margin-bottom: 30px;
+  position: relative;
+  width: 100%; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate .Savings h2 {
+  border-bottom: 1px solid #222126;
+  padding-bottom: 10px; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate .Savings .PromoCode label {
+  display: block;
+  font-weight: 700;
+  margin: 6px 0;
+  font-size: 16px; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate .Savings .PromoCode input[type="text"] {
+  display: block;
+  width: 50%; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsPanel {
+  border-bottom: 1px solid #222126;
+  overflow: auto;
+  padding-bottom: 20px; }
+  #ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsPanel .Header {
+    color: #000000; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dt {
+  display: inline-block;
+  float: left;
+  vertical-align: top;
+  width: 40%; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd {
+  display: inline-block;
+  float: left;
+  width: 60%; }
+
+#ctl00_ContentPlaceHolder_ItemsUpdate dd .Details {
+  font-weight: 700; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dt.Header, #ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Header {
+  border-bottom: 1px solid #222126;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 700;
+  height: auto;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  text-transform: uppercase; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Header .Breakdown li {
+  float: left;
+  padding: 0 8px 0 0; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Header .Breakdown li::after {
+  content: " / "; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Header .Breakdown li:last-child::after {
+  content: ""; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dt.Footer, #ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Footer {
+  color: #000;
+  font-size: 16px;
+  margin-top: 12px;
+  padding-top: 12px; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dt.Membership, #ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dt.Instance span {
+  color: #000;
+  font-size: 16px; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate #ctl00_ContentPlaceHolder_InstanceRepeater_ctl00_EventNameLabel {
+  font-weight: 500;
+  text-transform: uppercase; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Membership ul.Breakdown, #ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Instance ul.Breakdown {
+  margin-bottom: 12px; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Instance ul.Breakdown li {
+  display: inline-block; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Instance ul.Breakdown li::after {
+  content: " / "; }
+
+#ctl00_ContentPlaceHolder_BasketUpdate #ctl00_ContentPlaceHolder_ItemsUpdate dd.Instance ul.Breakdown li:last-child::after {
+  content: ""; }
+
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 20px; }
+  .PromoCode .left {
+    margin: 0 0 10px;
+    width: 100%; }
+  .Input_Text {
+    height: 20px;
+    margin: 0 0 10px; }
+  .Details table {
+    width: 100%; }
+  .Details .Type select {
+    padding: 5px;
+    width: 100px; } }
+
+/* also like */
+.Container.TicketType {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  display: inline-block;
+  padding: 0 0 10px;
+  width: 100%; }
+
+form .Container.TicketType input[type=tel] {
+  margin: 0 5px 8px;
+  width: auto;
+  color: #000000; }
+
+form .Container.TicketType input.Button {
+  font-family: "proxima-nova-condensed", sans-serif;
+  background: #3866c0;
+  border: 0;
+  color: #fff;
+  border-radius: 0;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  outline: 0; -webkit-appearance: none;
+  -webkit-border-radius: 0; }
+
+.SeatingArea .PlanControls {
+  background: none; }
+
+input[type=email], input[type=password], input[type=tel],
+input[type=text],
+select {
+  border-radius: 0;
+  border: 1px solid #dddddd;
+  color: #000;
+  padding: 12px 5px;
+  outline: 0;
+  font-weight: bold;
+  margin-bottom: 15px; }
+  input[type=email].error, input[type=password].error, input[type=tel].error,
+  input[type=text].error,
+  select.error {
+    border-color: red; }
+
+select {
+  color: #000000; }
+
+input[type=email]::-webkit-input-placeholder,
+input[type=text]::-webkit-input-placeholder {
+  color: #000000;
+  opacity: 1;
+  font-weight: normal; }
+
+input[type=email]:-ms-input-placeholder,
+input[type=text]:-ms-input-placeholder {
+  color: #000000;
+  opacity: 1;
+  font-weight: normal; }
+
+input[type=email]::-ms-input-placeholder,
+input[type=text]::-ms-input-placeholder {
+  color: #000000;
+  opacity: 1;
+  font-weight: normal; }
+
+input[type=email]::placeholder,
+input[type=text]::placeholder {
+  color: #000000;
+  opacity: 1;
+  font-weight: normal; }
+
+.LoginLogout, .NewAccount {
+  max-width: 600px;
+  margin: 0 auto; }
+
+.SupplementaryEventsPage .SupplementaryEventDiv + .InfoMessage + div input[type="submit"] {
+  text-transform: uppercase;
+  font-size: 18px;
+  border: none;
+  font-family: "proxima-nova-condensed", sans-serif;
+  color: #fff;
+  border-radius: 0;
+  text-align: center;
+  min-width: 200px;
+  height: 100%;
+  cursor: pointer;
+  
+  background: #3866c0;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  padding: 0.65em 1.2em;
+  
+}
+@media (min-width: 980px) {
+  .SupplementaryEventsPage .SupplementaryEventDiv {
+    display: block;
+    clear: both;
+    *zoom: 1;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #272727; }
+    .SupplementaryEventsPage .SupplementaryEventDiv:before, .SupplementaryEventsPage .SupplementaryEventDiv:after {
+      content: "";
+      display: table; }
+    .SupplementaryEventsPage .SupplementaryEventDiv:after {
+      clear: both; }
+  .SupplementaryEventsPage .Event_Text > div:first-child,
+  .SupplementaryEventsPage .Event_Text .Event_Dates {
+    width: 50%;
+    float: left; }
+    .SupplementaryEventsPage .Event_Text > div:first-child img,
+    .SupplementaryEventsPage .Event_Text .Event_Dates img {
+      max-width: 100%; }
+  .SupplementaryEventsPage .Event_Text .Event_Dates {
+    float: right;
+    text-align: right;
+    margin-bottom: 20px; }
+  .SupplementaryEventsPage .Event_Text #SimpleSeatingDiv {
+    max-width: 45%;
+    float: right;
+    padding: 20px;
+   } }
+
+/* ==========================================================================
+   Mobile
+   ========================================================================== */
+@media only screen and (max-width: 420px) {
+  form .Container.TicketType input {
+    margin: 8px 5px;
+    width: auto; }
+  form .Container.TicketType input.Button {
+    float: none;
+    margin: 8px 0;
+    text-align: left; }
+  .SeatThumbnail {
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.5); }
+  .ChooseSeats .Buttons .Button {
+    display: table;
+    margin: 10px auto;
+    width: 75%; } }
+
+.Event_Text img {
+  height: auto !important;
+  width: 100% !important; }
+
+.Button.ViewFromSeatButton[disabled="true"] {
+  background: #cccccc none repeat scroll 0 0;
+  border-color: #cccccc; }
+  
+.ErrorPanel {
+    color: #ff0000;
+}

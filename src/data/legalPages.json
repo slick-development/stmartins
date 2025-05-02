@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Cookie Policy",
+        "short": "Cookie",
+        "slug": "/cookie-policy/",
+        "body": "<p>test</p>"
+    },
+    {
+        "title": "Privacy Policy",
+        "short": "Privacy",
+        "slug": "/privacy-policy/",
+        "body": "<p>test</p>"
+    },
+    {
+        "title": "Terms & Conditions For Purchase Of Tickets",
+        "short": "Terms",
+        "slug": "/terms-and-conditions-for-purchase-of-tickets/",
+        "body": "<p>test</p>"
+    },
+    {
+        "title": "Acceptable Use Policy",
+        "short": "Acceptable Use",
+        "slug": "/acceptable-use-policy/",
+        "body": "<p>test</p>"
+    },
+    {
+        "title": "Website Terms & Conditions Of Use",
+        "short": "Acceptable Use",
+        "slug": "/website-terms-and-conditions-of-use/",
+        "body": "<p>test</p>"
+    }
+]

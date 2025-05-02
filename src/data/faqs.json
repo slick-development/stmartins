@@ -1,0 +1,55 @@
+[
+    {
+        "category": "GENERAL",
+        "questions": [
+            {
+                "question": "WHAT TIME SHOULD I ARRIVE AT THE THEATRE?",
+                "answer": "<p>The house will open 30mins before the performance start time.</p>\n<p>The dress circle theatre is open for pre-show drinks, comestibles and chit-chat 45mins before performance starts.</p>"
+            },
+            {
+                "question": "WHEN CAN I COLLECT MY TICKETS?",
+                "answer": "<p>When you booked your ticket, you will have provided a mobile number to us. We will text you 4-5 hours before the performance you are attending with your ticket. Please make sure you bring your phone with you so the tickets can be scanned. If you have not entered a mobile number whilst making your booking, please log into your website account with your details and enter it before the performance.</p>"
+            },
+            {
+                "question": "IS THERE A DRESS CODE?",
+                "answer": "<p>There is no dress code, although we advise patrons to wear something comfortable as sitting for the duration of the performance can be quite restricting.</p>"
+            },
+            {
+                "question": "IS THERE A CLOAKROOM?",
+                "answer": "<p>There is currently no cloakroom. We can only admit small items & bags that fit underneath, or in front of, the seats in the auditorium.</p>"
+            },
+            {
+                "question": "IS THERE A BAR?",
+                "answer": "<p>There is a bar on every level, however, these are currently not in use. You can order drinks from your seat via your mobile phone, or with an usher.</p>"
+            },
+            {
+                "question": "CAN I ORDER DRINKS AT THE PERFORMANCE?",
+                "answer": "<p>Yes. Once you have received your e-ticket via text message, you will be able to order drinks from your phone.</p>"
+            },
+            {
+                "question": "IS FOOD AND DRINK ALLOWED IN THE THEATRE?",
+                "answer": "<p>Light snacks are permitted and can be purchased in our kiosk & bars. Drinks purchased at the bar can only be taken into the auditorium in plastic cups, which are provided. Hot food and drink is not permitted anywhere in the theatre.</p>"
+            },
+            {
+                "question": "IS THERE A LIFT IN THE THEATRE?",
+                "answer": "<p>There are no lifts at this theatre. If you have mobility and/or any specific access requirements, please refer to the access tab. Patrons with specific access or seating requirements should book with the Box Office direct on <a href=\"tel:02078361443\">020 7836 1443</a>. Bookings for specific seats should be made early to avoid disappointment. Bookings and enquiries can also be taken by email at <a href=\"mailto:access@stmartinstheatre.co.uk\">access@stmartinstheatre.co.uk</a>.</p>"
+            },
+            {
+                "question": "DO YOU HAVE LOST AND FOUND FACILITIES?",
+                "answer": "<p>Please contact our Stage Door Keeper to enquire about your lost property. They can be contacted on <a href='tel:02078361086'>020 7836 1086</a>.</p>"
+            },
+            {
+                "question": "DO YOU HAVE WIFI?",
+                "answer": "<p>Not now – but we are working on it.</p>"
+            },
+            {
+                "question": "CAN I TAKE PHOTOGRAPHS INSIDE THE THEATRE?",
+                "answer": "<p>Please note that it is strictly forbidden to take pictures of the action on stage when the curtain goes up. However, we are happy for you to take pictures inside the auditorium of the theatre before the show begins. </p>"
+            },
+            {
+                "question": "IS THE THEATRE AIR CONDITIONED?",
+                "answer": "<p>The St. Martin’s Theatre is fully air-conditioned. We strive to keep the theatre in comfortable conditions through the changing seasons. Patrons not accustomed to West End Theatres are asked to observe the splendid and unusual architectural features and to take due care. The theatre is approximately 100 years old, so please be aware that there may be legroom restrictions amongst other issues associated with old buildings.</p>"
+            }
+        ]
+    }
+]
