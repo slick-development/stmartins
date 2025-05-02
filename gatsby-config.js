@@ -20,7 +20,14 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          formats: [`auto`, `webp`, `jpg`], // Removed AVIF
+        },
+      },
+    },
     `gatsby-transformer-json`,
     `gatsby-plugin-preload-fonts`,
     `gatsby-plugin-catch-links`,
