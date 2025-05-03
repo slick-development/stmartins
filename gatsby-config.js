@@ -18,20 +18,9 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
-    // ↓ Configure sharp *before* transformer-sharp ↓
-    {
-      resolve: `gatsby-plugin-sharp`,
-      options: {
-        defaults: {
-          // Only generate original (auto) and WebP — no AVIF
-          formats: [`auto`, `webp`],
-        },
-        // You can also silence corrupt-image errors if needed:
-        // failOn: `warning`,
-      },
-    },
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-styled-components`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     `gatsby-transformer-json`,
     `gatsby-plugin-preload-fonts`,
     `gatsby-plugin-catch-links`,
