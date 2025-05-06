@@ -19,12 +19,7 @@ const NavBlock = () => (
             </Link>
         </li>
         <li>
-            <Link to="/access/">
-                Access<span className="sr-only">Access</span>
-            </Link>
-        </li>
-        <li>
-            <Link to="/faqs/">
+            <Link to="https://the-mousetrap.co.uk/faqs/">
                 Faq's<span className="sr-only">Faqs</span>
             </Link>
         </li>

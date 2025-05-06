@@ -116,7 +116,7 @@ const FullHeightHeader = () => (
     <MaxWidth $noLazy>
       <div className="title">
         <h1>
-          Welcome to the Heart <br /> of the West End
+          About
         </h1>
         <p>
           St. Martin’s Theatre has welcomed over 15 million audience members

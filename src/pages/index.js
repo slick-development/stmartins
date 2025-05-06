@@ -18,7 +18,6 @@ const IndexPage = ({ data }) => {
     <Layout title={header.title} description={header.description}>
       <FullHeightHeader />
       <WhatsOn data={whatsOn?.nodes} id="whats-on" />
-      <TheTheatre />
       <PlanYourVisit />
     </Layout>
   )

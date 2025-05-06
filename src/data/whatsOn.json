@@ -3,24 +3,8 @@
         "image": "../images/updated-mt.jpg",
         "title": "The Mousetrap",
         "text": "Performances on sale now to March 2025",
-        "link": "https://uk.the-mousetrap.co.uk/book-tickets/#/",
+        "link": "https://tickets.the-mousetrap.co.uk/booking/calendar/333/2025-02",
         "btnText": "Buy Tickets",
         "inbound": false
-    },
-    {
-        "image": "../images/SGIT-St-Martin's-534x340.jpg",
-        "title": "The Smartest Giant In Town",
-        "text": "29 November 2024 - 5th of January 2025",
-        "link": "the-smartest-giant-in-town",
-        "btnText": "Buy Tickets",
-        "inbound": true
-    },
-    {
-        "image": "../images/blackpool.png",
-        "title": "Newest College, Oldest Show",
-        "text": "One performance on 31st January 2025, 2pm",
-        "link": "newest-college-oldest-show",
-        "btnText": "Buy Tickets",
-        "inbound": true
     }
 ]
