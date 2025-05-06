@@ -28,7 +28,7 @@ const WhatsOnStyles = styled.section`
     @media ${media.sm} {
       flex-direction: row;
       flex-wrap: wrap;
-      justify-content: center;
+      justify-content: start;
     }
   }
   @media ${media.md} {
