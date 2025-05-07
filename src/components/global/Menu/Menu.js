@@ -110,12 +110,7 @@ const Menu = ({ open, setOpen }) => {
             </Link>
           </li>
           <li>
-            <Link to="/access/">
-              Access<span className="sr-only">Access</span>
-            </Link>
-          </li>
-          <li>
-            <Link to="/faqs/">
+            <Link to="https://the-mousetrap.co.uk/faqs/" target="_blank">
               FAQS<span className="sr-only">FAQS</span>
             </Link>
           </li>
