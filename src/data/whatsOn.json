@@ -1,5 +1,13 @@
 [
     {
+        "image": "../images/cocomelon-logo.jpg",
+        "title": "Cocomelon Sing-a-long Live",
+        "text": "",
+        "link": "https://cocomelon.tixculture.com/london/shows/44413-cocomelon-sing-a-long-live",
+        "btnText": "Buy Tickets",
+        "inbound": false
+    },
+    {
         "image": "../images/updated-mt.jpg",
         "title": "The Mousetrap",
         "text": "",
