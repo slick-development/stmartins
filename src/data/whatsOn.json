@@ -1,9 +1,9 @@
 [
     {
-        "image": "../images/merlin-logo.jpg",
-        "title": "Magical Merlin",
+        "image": "../images/updated-mt.jpg",
+        "title": "The Mousetrap",
         "text": "",
-        "link": "https://www.perform.org.uk/shows/magical-merlin",
+        "link": "https://tickets.themousetrap.com/booking/calendar/333/2025-02",
         "btnText": "Buy Tickets",
         "inbound": false
     },
@@ -16,10 +16,10 @@
         "inbound": false
     },
     {
-        "image": "../images/updated-mt.jpg",
-        "title": "The Mousetrap",
+        "image": "../images/merlin-logo.jpg",
+        "title": "Magical Merlin",
         "text": "",
-        "link": "https://tickets.themousetrap.com/booking/calendar/333/2025-02",
+        "link": "https://www.perform.org.uk/shows/magical-merlin",
         "btnText": "Buy Tickets",
         "inbound": false
     }
