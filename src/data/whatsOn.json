@@ -1,5 +1,13 @@
 [
     {
+        "image": "../images/merlin-logo.jpg",
+        "title": "Magical Merlin",
+        "text": "",
+        "link": "https://www.perform.org.uk/shows/magical-merlin",
+        "btnText": "Buy Tickets",
+        "inbound": false
+    },
+    {
         "image": "../images/cocomelon-logo.jpg",
         "title": "Cocomelon Sing-a-Long Live",
         "text": "",
