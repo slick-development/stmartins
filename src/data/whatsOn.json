@@ -14,5 +14,13 @@
         "link": "https://www.perform.org.uk/shows/magical-merlin",
         "btnText": "Buy Tickets",
         "inbound": false
+    },
+    {
+        "image": "../images/nutcracker-logo.jpg",
+        "title": "The Nutcracker",
+        "text": "",
+        "link": "https://thenutcracker.tixculture.com/london/shows/45472-the-nutcracker-st-martins",
+        "btnText": "Buy Tickets",
+        "inbound": false
     }
 ]
