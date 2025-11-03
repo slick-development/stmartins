@@ -8,14 +8,6 @@
         "inbound": false
     },
     {
-        "image": "../images/merlin-logo.jpg",
-        "title": "Magical Merlin",
-        "text": "",
-        "link": "https://www.perform.org.uk/shows/magical-merlin",
-        "btnText": "Buy Tickets",
-        "inbound": false
-    },
-    {
         "image": "../images/nutcracker-logo.jpg",
         "title": "The Nutcracker",
         "text": "",
