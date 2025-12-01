@@ -129,7 +129,7 @@ const ContactPage = ({data}) => {
 
                             <p>Job applications should be submitted in writing to the Theatre Manager.</p>
 
-                            <p><strong>For Press Enquiries, please contact <a href="mailto:david.bloom@storyhousepr.co.uk">david.bloom@storyhousepr.co.uk</a> and <a href="mailto:lewis.jenkins@storyhousepr.co.uk">lewis.jenkins@storyhousepr.co.uk</a></strong></p>
+                            <p><strong>For Press Enquiries, please contact <a href="mailto:Alex@buchananpr.co.uk">Alex@buchananpr.co.uk</a> and <a href="mailto:Nirvana@buchananpr.co.uk">Nirvana@buchananpr.co.uk</a></strong></p>
                         </div>
                         <div className="info">
                             <GetImage data={data.image.childImageSharp.gatsbyImageData} alt=""/>
