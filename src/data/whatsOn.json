@@ -6,5 +6,13 @@
         "link": "https://tickets.themousetrap.com/booking/calendar/333/2025-02",
         "btnText": "Buy Tickets",
         "inbound": false
+    },
+    {
+        "image": "../images/midnight-logo.jpg",
+        "title": "Midnight in the Toyshop",
+        "text": "",
+        "link": "https://www.perform.org.uk/shows/midnight-in-the-toyshop",
+        "btnText": "Buy Tickets",
+        "inbound": false
     }
 ]
