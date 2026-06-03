@@ -8,10 +8,10 @@
         "inbound": false
     },
     {
-        "image": "../images/midnight-logo.jpg",
-        "title": "Midnight in the Toyshop",
+        "image": "../images/mermaids-logo.jpg",
+        "title": "Mermaids & Pirates",
         "text": "",
-        "link": "https://www.perform.org.uk/shows/midnight-in-the-toyshop",
+        "link": "https://www.perform.org.uk/shows/mermaids-and-pirates",
         "btnText": "Buy Tickets",
         "inbound": false
     }
