@@ -8,14 +8,6 @@
         "inbound": false
     },
     {
-        "image": "../images/mermaids-logo.jpg",
-        "title": "Mermaids & Pirates",
-        "text": "",
-        "link": "https://www.perform.org.uk/shows/mermaids-and-pirates",
-        "btnText": "Buy Tickets",
-        "inbound": false
-    },
-    {
         "image": "../images/smartestgiant-logo.jpg",
         "title": "The Smartest Giant in Town",
         "text": "",
